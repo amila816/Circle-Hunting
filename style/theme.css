@@ -1,0 +1,25 @@
+:root {
+  /* ========================= BASIC ========================= */
+  --color-white: #fff;
+
+  /* ========================= BACKGROUNDS ========================= */
+  --bg-body: #222;
+  --bg-wrapper: #111;
+  --bg-canvas: #000;
+
+  --bg-screen-dark: rgba(0, 0, 0, 0.85);
+  --bg-screen-solid: rgba(0, 0, 0, 1);
+  --bg-screen-gameover: rgba(150, 0, 0, 0.9);
+  --bg-screen-win: rgba(0, 100, 0, 0.9);
+
+  /* ========================= ACCENT COLORS ========================= */
+  --accent-yellow: #ffcc00;
+  --accent-red: #ff0000;
+  --accent-green: #00ff00;
+
+
+  /* ========================= CANVAS GAME COLORS ========================= */
+  --player-color: green;
+  --enemy-color: orange;
+  --hud-text-color: #ffffff;
+}
